@@ -1,7 +1,6 @@
 # IFRS 17 Python Prototype
 
-A Python-based IFRS 17 valuation engine built to demonstrate actuarial 
-and accounting concepts using real-world insurance contract data.
+A Python-based IFRS 17 valuation template
 
 ## Project Structure
 - `data/contracts.csv` - Input contract data
